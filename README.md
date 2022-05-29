@@ -2,6 +2,7 @@
 
 ## Zadání 
 Proveďte nastavení „malé domácí“ sítě připojené do Internetu přes dva směrovače a NAT podle uvedeného schématu v simulátoru GNS3. Použijte uvedený adresní prostor, který rozdělíte na dvě podsítě podle doporučení ve schématu.
+
 ![Topologie](topology.png)
 
 ## Nastavení routeru R1
